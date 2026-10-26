@@ -1,0 +1,14 @@
+{
+  "project": "ada-lovelace-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "52xNiJZYwnmWMvRvfcBq7cANM1CvoUcHqiDUqubTLxL3",
+  "vault_account": "FS7PJN5jWXa1qNA5bmD97ryq9woUGoVVWo45L9w68VUf",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "2taZsjzpjY6svXxGtxzoVhmecExrq3eDMztEwrX6Nq5dsvatHpD2Q12ss1WEE8Nj65W8gepbcHrAdnSFexgyh51Q",
+  "account_tx": "4CDm88tJ5ENMGCXb4keHGGGG3UfWLN2d53qzosHMWndwUThaN3F2uG96wKqu9tnpTPr4FrHxf7V4wunhF5MiHGiB",
+  "mint_tx": "3eTqXynj8kpqiLqGnDfZNoBN1yrcN18W2geieEWzWh8jSGa7cGnWAWXvSjMsw2s2cmyNfM2DzVqagL4dDtTMggd8",
+  "solana_explorer_mint": "https://explorer.solana.com/address/52xNiJZYwnmWMvRvfcBq7cANM1CvoUcHqiDUqubTLxL3?cluster=devnet",
+  "timestamp": "2026-10-26 16:13:50 UTC"
+}
