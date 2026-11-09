@@ -1,7 +1,7 @@
 {
   "engine": "REA_Reverse_Engineer_Anything",
   "status": "STRUCTURE_RECONSTRUCTED",
-  "analyzed_files": 14,
+  "analyzed_files": 16,
   "manifest": {
     "ARCHITECTURE_BOOK.md": {
       "bytes": 2601
@@ -23,6 +23,12 @@
     },
     "WHITEPAPER.md": {
       "bytes": 1178
+    },
+    "reports\\RAVEN_RSI_DIAGNOSTIC.json": {
+      "bytes": 340
+    },
+    "reports\\REA_ANALYSIS.json": {
+      "bytes": 1015
     },
     "scripts\\rea_inspector.py": {
       "bytes": 1485
@@ -46,5 +52,5 @@
       "bytes": 1340
     }
   },
-  "timestamp": 1793976917
+  "timestamp": 1794212779
 }
